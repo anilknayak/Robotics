@@ -1,0 +1,5 @@
+This program has Forward and Inverse Kinematics for Robotics Arm
+
+1. Forward Kinematics Program can be accessed through fwd_kin(...) method
+2. Inverse Kinematics Program can be accessed through inv_kin(...) method
+3. I have one small forward and inverse kinematics problem in PDF for the understanding
