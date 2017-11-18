@@ -1,0 +1,7 @@
+This is Path Finding for EV3 Lego robot
+1. C++ program is deployable in Lego Robot EV3
+2. Python program is to visualize the path in computer whether the C++ code is working properly or not 
+
+Note: the Precision of simulator is not 100% accurate as C++ but 95% correct because of float to int conversion for display purpose
+
+For any queries please feel free to send me email, i will love to help.
